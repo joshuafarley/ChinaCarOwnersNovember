@@ -8,7 +8,6 @@ This project provides a simple Extract, Transform, and Load (ETL) pipeline for c
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Overview
 
