@@ -6,7 +6,6 @@ This project provides a simple Extract, Transform, and Load (ETL) pipeline for c
 
 - [Overview](#overview)
 - [Features](#features)
-- [File Structure](#file-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -34,5 +33,22 @@ This ETL pipeline processes a dataset by:
 - **Duplicate Removal**: Detects and removes duplicate records based on VIN, ID number, and email.
 - **File Output**: Saves the cleaned data and invalid records to separate CSV files.
 
-## File Structure
 
+## Installation
+
+### Requirements:
+
+- Python 3.x
+- Pandas
+- Regular Expressions (`re` module)
+
+To install the required libraries, run:
+```bash
+pip install pandas
+```
+##Usage
+Clone the repository:
+```
+git clone https://github.com/yourusername/data-cleaning-pipeline.git
+cd data-cleaning-pipeline
+```
