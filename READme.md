@@ -46,7 +46,7 @@ To install the required libraries, run:
 ```bash
 pip install pandas
 ```
-##Usage
+## Usage
 Clone the repository:
 ```
 git clone https://github.com/yourusername/data-cleaning-pipeline.git
